@@ -32,7 +32,7 @@ public class AlgorithmTestController {
         }
         result.put("badStringConcatTime", System.currentTimeMillis() - startTime);
 
-        // TODO: 부하테스트 - 실습에서 주석 풀고 위의 코드 주석시키기
+//        // TODO: 부하테스트 - 실습에서 주석 풀고 위의 코드 주석시키기
 //        // 올바른 문자열 연결 방식 (StringBuilder)
 //        startTime = System.currentTimeMillis();
 //        StringBuilder goodResult = new StringBuilder();
